@@ -1,0 +1,20 @@
+.mainDiv {
+  display: flex;
+  overflow: hidden;
+}
+.box {
+  border: 2px solid black;
+  height: 15vh;
+  width: 150px;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5rem;
+  margin-top: 5rem;
+}
+.btn {
+  margin: 3rem 0rem 0rem 4rem;
+  display: flex;
+  justify-content: space-evenly;
+}
